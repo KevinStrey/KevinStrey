@@ -11,3 +11,6 @@
 🚀 Quando não estou programando, **Giovanni Giorgio** adora contribuir para projetos open-source e trocar ideias com a comunidade tech.  
 
 🔗 Vamos nos conectar! Se você precisa de alguém apaixonado por tecnologia e desenvolvimento, **Giovanni Giorgio** está aqui para colaborar!
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100px"/>
+          
