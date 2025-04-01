@@ -1,6 +1,6 @@
 👋 Olá, sou **Giovanni Giorgio**, um apaixonado por tecnologia e desenvolvimento!  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinStrey&theme=radical)
+<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinStrey&theme=radical -->
 
 🧑‍💻 **Giovanni Giorgio** é o nome, e estou sempre em busca de aprender e aprimorar minhas habilidades em programação.  
 
