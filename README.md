@@ -2,4 +2,4 @@
 
 <!--
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogaertner&theme=radical)](https://github.com/leonardogaertner/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinStrey&theme=radical)](https://github.com/KevinStrey/github-readme-stats)
