@@ -3,7 +3,7 @@
 ---
 
 ### About Me
-I am an IT Expertise professional with 2 years of experience, dedicated to **assisting the Brazilian Judiciary**. My main focus is preparing clear, objective, and technically sound **expert reports** to support judicial decisions.
+I am an IT Expertise professional with 1,5 years of experience, dedicated to **assisting the Brazilian Judiciary**. My main focus is preparing clear, objective, and technically sound **expert reports** to support judicial decisions.
 
 I believe in the importance of **continuous updating** in the face of new technologies and forensic methodologies, always striving for maximum precision and impartiality in my analyses. This GitHub space serves to document part of that learning journey, share studies, and eventually, useful tools.
 
