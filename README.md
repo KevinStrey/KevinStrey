@@ -49,12 +49,24 @@ My experience covers a wide range of topics within computer forensics, including
 
 ## 🛠️ Skills & Tools
 
+<p align="left" margin=50px >          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="50" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sleuthkit/autopsy/refs/heads/develop/icons/icon.ico" alt="Autopsy" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/7898047/wsicon180.png?width=48" alt="Wireshark" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://10xeditor.com/images/10x_editor_title.png" alt="Wireshark" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 * **Languages/Scripting:** Python, SQL, Bash/Shell Scripting, PowerShell
 * **Forensic Tools:** Autopsy, FTK Imager, Sysinternals Suite, Wireshark, Hex Editors, Image/Audio/Video analysis tools, Data recovery tools.
 * **Operating Systems:** Windows (Desktop/Server), Linux (Debian/Ubuntu/etc.)
 * **File Systems:** NTFS, FAT32/exFAT, Ext4, HFS+, APFS
 * **Key Concepts:** Digital Chain of Custody, Log Analysis, Data Recovery, Metadata, Basic Network Analysis, Information Security, Data Privacy (LGPD), **Technical Expert Report Writing**.
-
+          
 ---
 
 ## 🌱 Current Focus & Learning
